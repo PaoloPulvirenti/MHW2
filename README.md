@@ -16,7 +16,7 @@ Inoltre nel sito sarà possibile vedere attraverso la sezione ‘contattaci’ l
 
 Alcune immagini che mostrono l'home page.
 ![img1](https://user-images.githubusercontent.com/79881013/114163952-0a46fd00-992b-11eb-80be-82301e3853be.PNG)
-![img2](https://user-images.githubusercontent.com/79881013/114163744-d4a21400-992a-11eb-87de-0984c30c74dd.PNG)
+![img2](https://user-images.githubusercontent.com/79881013/114164282-6578ef80-992b-11eb-8da5-34f4a7e24e71.PNG)
 ![img3](https://user-images.githubusercontent.com/79881013/114163750-d5d34100-992a-11eb-9a3e-a8c10cd335e5.PNG)
 ![img4](https://user-images.githubusercontent.com/79881013/114163756-d7046e00-992a-11eb-8545-23f59bdcf519.PNG)
 
