@@ -3,7 +3,7 @@
 
 ## Home Page v.2
 
-Questa è la seconda versione della home page dove sono state aggiunte: Aggiunta ai preferiti, Mostra più nella descrizone di ogni piatto e il tasto cerca dovè possibile trovare il piatto cercato.
+Questa è la seconda versione della home page dove sono state aggiunte: Aggiunta ai preferiti, Mostra più nella descrizone di ogni piatto e il tasto cerca per trovare il piatto cercato.
 
 
 ## Visuals
