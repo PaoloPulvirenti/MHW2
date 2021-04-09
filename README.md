@@ -1,13 +1,9 @@
 # MHW2
 
 
+## Home Page v.2
 
-## Home Page
-
-Questa è la home page dei ristoranti che  serve per visualizzare i piatti tipici di ogni ristorante in Italia, con la descrizione in dettaglio di ogni piatto.
-In seguito, Il sito verrà aggiornato aggiungendo delle pagine anche per la gestione dei ristoranti da parte dei direttori, che attraverso la pagina di login potranno gestire e controllare in ogni ristorante tutti i dipendenti, prodotti e fornitori.
-Inoltre nel sito sarà possibile vedere attraverso la sezione ‘contattaci’ le sedi di ogni ristorante in tutta Italia.
-
+Questa è la seconda versione della home page dove sono state aggiunte: Aggiunta ai preferiti, Mostra più nella descrizone di ogni piatto e il tasto cerca dovè possibile trovare il piatto cercato.
 
 
 ## Visuals
@@ -30,8 +26,8 @@ Alcune immagini che mostrono l'home page.
 Per visualizzare il sito scaricare i file e metterli in un'unica cartella che dovrà essere situata in: C:\xampp\htdocs e
 aprire il browser Google Chrome e digitare "localhost/nomecartella/nomefile.html".
 
-Per visualizzare il codice scaricate i file e aprire mhw1.html, mhw1.css con un editor che preferite (visual studio, blocco note, ecc..).
+Per visualizzare il codice scaricate i file e aprire mhw2.html, mhw2.css, Script.js e contents.js con un editor che preferite (visual studio, blocco note, ecc..).
 
 
 ## Roadmap
-Prima parte di cinque.
+Seconda parte di cinque.
